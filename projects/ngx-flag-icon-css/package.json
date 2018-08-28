@@ -1,0 +1,13 @@
+{
+  "name": "ngx-flag-icon-css",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Passiverecords/angular-flag-icon-css.git"
+  },
+  "peerDependencies": {
+    "@angular/common": ">=2.0.0",
+    "@angular/core": ">=2.0.0",
+    "flag-icon-css": ">=3.0.0"
+  }
+}
