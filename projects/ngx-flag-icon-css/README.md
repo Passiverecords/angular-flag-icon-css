@@ -28,8 +28,7 @@ flag-icon-css for Angular 2+
 npm install ngx-flag-icon-css flag-icon-css
 ```
 
-2. Add the path to the flag-icon-css stylesheet to your angular.json file (inside the "styles" entry)
-
+2. Add the path to the flag-icon-css stylesheet to your angular.json file (inside the "styles" entry)  
 *Note: This key should still exist in the old .angular-cli.json format*
 
 ```json
