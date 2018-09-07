@@ -3,7 +3,7 @@
 
 ---
 
-flag-icon-css for Angular 2+
+flag-icon-css for Angular 5+
 
 ---
 
