@@ -9,8 +9,8 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class NgxFlagIconCssComponent implements OnInit {
 
-  @Input() private country: string
-  @Input() private squared: boolean
+  @Input() public country: string
+  @Input() public squared: boolean
 
   constructor() {}
 
